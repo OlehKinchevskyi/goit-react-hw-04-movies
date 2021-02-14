@@ -1,0 +1,35 @@
+{
+  "files": {
+    "static/js/0.9c3a6729.chunk.js": "/static/js/0.9c3a6729.chunk.js",
+    "static/js/0.9c3a6729.chunk.js.map": "/static/js/0.9c3a6729.chunk.js.map",
+    "home-details-page.css": "/static/css/home-details-page.026ba44f.chunk.css",
+    "home-details-page.js": "/static/js/home-details-page.56da5ca9.chunk.js",
+    "home-details-page.js.map": "/static/js/home-details-page.56da5ca9.chunk.js.map",
+    "home-page.js": "/static/js/home-page.d466a091.chunk.js",
+    "home-page.js.map": "/static/js/home-page.d466a091.chunk.js.map",
+    "main.css": "/static/css/main.a8d876df.chunk.css",
+    "main.js": "/static/js/main.6dbcd964.chunk.js",
+    "main.js.map": "/static/js/main.6dbcd964.chunk.js.map",
+    "movies-page.css": "/static/css/movies-page.ea576349.chunk.css",
+    "movies-page.js": "/static/js/movies-page.00bd6a81.chunk.js",
+    "movies-page.js.map": "/static/js/movies-page.00bd6a81.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.42c02638.js",
+    "runtime-main.js.map": "/static/js/runtime-main.42c02638.js.map",
+    "static/css/6.de71bbd8.chunk.css": "/static/css/6.de71bbd8.chunk.css",
+    "static/js/6.85123653.chunk.js": "/static/js/6.85123653.chunk.js",
+    "static/js/6.85123653.chunk.js.map": "/static/js/6.85123653.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/6.de71bbd8.chunk.css.map": "/static/css/6.de71bbd8.chunk.css.map",
+    "static/css/home-details-page.026ba44f.chunk.css.map": "/static/css/home-details-page.026ba44f.chunk.css.map",
+    "static/css/main.a8d876df.chunk.css.map": "/static/css/main.a8d876df.chunk.css.map",
+    "static/css/movies-page.ea576349.chunk.css.map": "/static/css/movies-page.ea576349.chunk.css.map",
+    "static/js/6.85123653.chunk.js.LICENSE.txt": "/static/js/6.85123653.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42c02638.js",
+    "static/css/6.de71bbd8.chunk.css",
+    "static/js/6.85123653.chunk.js",
+    "static/css/main.a8d876df.chunk.css",
+    "static/js/main.6dbcd964.chunk.js"
+  ]
+}
